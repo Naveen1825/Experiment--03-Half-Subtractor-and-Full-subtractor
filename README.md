@@ -1,6 +1,6 @@
 
-Name : Rajalakshmi R<br>
-Class : 212223110037
+Name : Naveenkanthan L<br>
+Class : 212223230138
 
 # Exp-04 Implementation of Half subtractor and Full subtractor circuit
 ## AIM:
